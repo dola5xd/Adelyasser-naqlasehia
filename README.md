@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-- **Main Website:** [Store Task](#) <!-- Add your deployed URL here if available -->
+- **Main Website:** [Store Task](https://adelyasser-naqlasehia.vercel.app/)
 
 ---
 
@@ -27,8 +27,8 @@
 
 ```bash
 # Clone project
-git clone https://github.com/your-username/store-task.git
-cd store-task
+git clone https://github.com/dola5xd/Adelyasser-naqlasehia
+cd Adelyasser-naqlasehia
 
 # Install dependencies
 npm install
